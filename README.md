@@ -58,12 +58,6 @@
   <img src="https://streak-stats.demolab.com?user=ThameemKing&theme=default&hide_border=true&background=ffffff&ring=1D4ED8&fire=EA580C&currStreakLabel=0F172A&sideNums=334155&sideLabels=475569&dates=64748B&stroke=E2E8F0&border_radius=14" />
 </p>
 
-## Contribution Snake
-
-<p align="center">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ThameemKing/Thameemking/output/snake.svg" />
-</p>
-
 ## Project Spotlight
 
 <p align="center">
@@ -94,6 +88,10 @@
     <img src="https://img.shields.io/badge/COLLABORATE%20WITH%20ME-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+## Contribution Snake
+
+![Contribution Snake](https://github.com/ThameemKing/Thameemking/blob/output/snake.svg)
 
 ---
 
