@@ -61,10 +61,7 @@
 ## Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThameemKing/Thameemking/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/ThameemKing/Thameemking/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ThameemKing/Thameemking/output/snake.svg" />
 </p>
 
 ## Project Spotlight
