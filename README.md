@@ -49,9 +49,7 @@
   <img src="./assets/stats-glass-3d.svg" alt="Glassmorphism stats frame" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LIVE%20PROFILE%20TELEMETRY-3%20REALTIME%20SIGNALS-0F172A?style=for-the-badge&labelColor=ffffff&color=0F172A" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ThameemKing?style=for-the-badge&label=FOLLOWERS&labelColor=ffffff&color=1D4ED8" />
