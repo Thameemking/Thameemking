@@ -50,6 +50,16 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/LIVE%20PROFILE%20TELEMETRY-3%20REALTIME%20SIGNALS-0F172A?style=for-the-badge&labelColor=ffffff&color=0F172A" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ThameemKing?style=for-the-badge&label=FOLLOWERS&labelColor=ffffff&color=1D4ED8" />
+  <img src="https://img.shields.io/github/stars/ThameemKing/Thameemking?style=for-the-badge&label=REPO%20STARS&labelColor=ffffff&color=0891B2" />
+  <img src="https://img.shields.io/github/last-commit/ThameemKing/Thameemking?style=for-the-badge&label=LAST%20COMMIT&labelColor=ffffff&color=EA580C" />
+</p>
+
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThameemKing&show_icons=true&hide_border=true&theme=default&bg_color=ffffff&title_color=0f172a&icon_color=2563eb&text_color=334155&border_radius=14" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThameemKing&layout=compact&hide_border=true&theme=default&bg_color=ffffff&title_color=0f172a&text_color=334155&border_radius=14" />
 </p>
@@ -61,7 +71,20 @@
 ## Project Spotlight
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThameemKing&repo=Thameemking&theme=default&hide_border=true&bg_color=ffffff&title_color=0f172a&text_color=334155&border_radius=14" />
+  <a href="https://github.com/ThameemKing/Thameemking">
+    <img src="https://img.shields.io/badge/THAMEEMKING-FLAGSHIP%20PROFILE%20REPO-111827?style=for-the-badge&labelColor=ffffff&color=111827" />
+  </a>
+</p>
+
+<p align="center"><b>Personal profile repository focused on a modern, 3D-inspired GitHub presence with live stats, automation, and bold visual storytelling.</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/ThameemKing/Thameemking?style=for-the-badge&label=REPO%20SIZE&labelColor=ffffff&color=0EA5E9" />
+  <img src="https://img.shields.io/github/commit-activity/m/ThameemKing/Thameemking?style=for-the-badge&label=MONTHLY%20COMMITS&labelColor=ffffff&color=2563EB" />
+  <img src="https://img.shields.io/github/license/ThameemKing/Thameemking?style=for-the-badge&label=LICENSE&labelColor=ffffff&color=16A34A" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThameemKing&show_icons=true&hide_border=true&theme=default&bg_color=ffffff&title_color=0f172a&icon_color=2563eb&text_color=334155&border_radius=14" />
 </p>
 
